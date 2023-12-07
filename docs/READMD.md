@@ -1,7 +1,7 @@
 
-# aa
+# pytorch and ssd
 
-opencv, pytorch, gstreamer, python, cuda, cudnn
+opencv, pytorch, gstreamer, python, cuda, cudnn, ssd
 
 
 ## Download the Pre-Trained Weights
